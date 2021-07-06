@@ -32,11 +32,13 @@ A simple interactive application built in order to understand the basic working 
   - It provides a list of code names of a few storms whose images are available.
   - Choosing of anyone triggers a transition that redirects the user to a detailed image of the chosen storm.
   - The page is basically implemented using the `TableView` in `Swift UIKit` with a single column and the the code names displayed in each cell.
+  - The page now provides the feature to share the application using the activity controller.
   
 - **Image Screen** :
   - The screen basically displays the image of the chosen strom.
   - The provision of a common navigation controller enable the user to switch back to the home page.
   - The page also provides the feature to hide the navigation bar and see and more detailed image of the storm by just tapping on the screen.
+  - The page now also provides a feature to share the image and perform other operations like saving to local storage and so on.
   
 - **Graphical Features** :
   - The project contains **multiple graphical content** ranging from _bending of borders_ to _styled fonts_, _contrasting colour switches_, _pictures_ and _eye-soothing layout_.
@@ -53,9 +55,9 @@ A simple interactive application built in order to understand the basic working 
 ## Screenshots of the Application :
 <table>
   <tr>
-    <td> <img src = "screenshots/1.png" height="430" width="210"> </td>
     <td> <img src = "screenshots/2.png" height="430" width="210"> </td>
     <td> <img src = "screenshots/3.png" height="430" width="210"> </td>
+    <td> <img src = "screenshots/1.png" height="430" width="210"> </td>
   </tr>
 </table>
 
