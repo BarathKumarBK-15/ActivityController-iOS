@@ -22,7 +22,7 @@ The code of the app can be compiled using `XCode` and can be run using a simulat
 
 ## Components of Project :
 - **Swift** files - 2
-- **Storyboards** - 1
+- **Storyboards** - 2
 - _Note: The above mentioned files are the important additional files added to the default Xcode project files_
 
 ## About the Application :
